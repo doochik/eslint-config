@@ -1,0 +1,22 @@
+{
+  "name": "@doochik/eslint-config-doochik",
+  "version": "1.0.0",
+  "description": "My ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doochik/eslint-config-doochik.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Aleksei Androsov <doochik@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doochik/eslint-config-doochik/issues"
+  },
+  "homepage": "https://github.com/doochik/eslint-config-doochik#readme"
+}
