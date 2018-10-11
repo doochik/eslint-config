@@ -54,6 +54,7 @@ module.exports = {
         "object-shorthand": "off",
         "one-var": ["error", "never"],
         "operator-linebreak": [ "error", "after" ],
+        "padded-blocks": ["error", { "classes": "never" }],
         "prefer-const": "error",
         "quote-props": ["error", "as-needed", {
             "keywords": true,
