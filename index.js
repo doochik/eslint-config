@@ -29,6 +29,7 @@ module.exports = {
             "beforeBlockComment": true,
             "allowBlockStart": true
         }],
+        "lines-between-class-members": ["error", "always"],
         "max-len": ["error", 160, 4],
         "no-empty": [ 2, { "allowEmptyCatch": true } ],
         "no-implicit-coercion": ["error", {
