@@ -1,5 +1,5 @@
 {
-  "name": "@doochik/eslint-config-doochik",
+  "name": "@doochik/eslint-config",
   "version": "1.0.0",
   "description": "My ESLint config",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "author": "Aleksei Androsov <doochik@ya.ru>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/doochik/eslint-config-doochik/issues"
+    "url": "https://github.com/doochik/eslint-config/issues"
   },
-  "homepage": "https://github.com/doochik/eslint-config-doochik#readme"
+  "homepage": "https://github.com/doochik/eslint-config#readme"
 }
